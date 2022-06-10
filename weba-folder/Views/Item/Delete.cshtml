@@ -1,0 +1,22 @@
+@model weba_folder.Models.Item
+
+<div class="mt-4">
+    <div class="row">
+        <div class="col-12">
+            <h2>Delete item</h2>
+        </div>
+    </div>
+<form method="Post">
+    
+<input asp-for="Id" hidden >
+
+  <div class="form-group">
+    <label asp-for="Name">  </label>
+    <input asp-for="Name" disabled type="text" class="form-control" >
+  </div>
+  
+  
+  <button type="submit" class="btn btn-danger">Delete</button>
+  <a asp-action="Index" class="btn btn-success">Back</a>
+</form>
+</div>
