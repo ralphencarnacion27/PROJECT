@@ -9,9 +9,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/weba-folder/bin/Debug/net5.0/weba-folder.dll",
+            "program": "${workspaceFolder}/bin/Debug/net5.0/crud_dotnetCoreMvc-main.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/weba-folder",
+            "cwd": "${workspaceFolder}",
             "stopAtEntry": false,
             "serverReadyAction": {
                 "action": "openExternally",
