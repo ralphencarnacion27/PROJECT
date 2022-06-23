@@ -1,0 +1,623 @@
+C:\Users\Abel\bsis3a-webapp\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Abel\bsis3a-webapp\bin\Debug\net5.0\appsettings.json
+C:\Users\Abel\bsis3a-webapp\bin\Debug\net5.0\bsis3a-webapp.exe
+C:\Users\Abel\bsis3a-webapp\bin\Debug\net5.0\bsis3a-webapp.deps.json
+C:\Users\Abel\bsis3a-webapp\bin\Debug\net5.0\bsis3a-webapp.runtimeconfig.json
+C:\Users\Abel\bsis3a-webapp\bin\Debug\net5.0\bsis3a-webapp.runtimeconfig.dev.json
+C:\Users\Abel\bsis3a-webapp\bin\Debug\net5.0\bsis3a-webapp.dll
+C:\Users\Abel\bsis3a-webapp\bin\Debug\net5.0\ref\bsis3a-webapp.dll
+C:\Users\Abel\bsis3a-webapp\bin\Debug\net5.0\bsis3a-webapp.pdb
+C:\Users\Abel\bsis3a-webapp\bin\Debug\net5.0\bsis3a-webapp.Views.dll
+C:\Users\Abel\bsis3a-webapp\bin\Debug\net5.0\bsis3a-webapp.Views.pdb
+C:\Users\Abel\bsis3a-webapp\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Abel\bsis3a-webapp\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Abel\bsis3a-webapp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Abel\bsis3a-webapp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Abel\bsis3a-webapp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Abel\bsis3a-webapp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Abel\bsis3a-webapp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Abel\bsis3a-webapp\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Abel\bsis3a-webapp\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Abel\bsis3a-webapp\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Abel\bsis3a-webapp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Abel\bsis3a-webapp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Abel\bsis3a-webapp\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Abel\bsis3a-webapp\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Abel\bsis3a-webapp\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Abel\bsis3a-webapp\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Abel\bsis3a-webapp\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Abel\bsis3a-webapp\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Abel\bsis3a-webapp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Abel\bsis3a-webapp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Abel\bsis3a-webapp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Abel\bsis3a-webapp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Abel\bsis3a-webapp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Abel\bsis3a-webapp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Abel\bsis3a-webapp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Abel\bsis3a-webapp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Abel\bsis3a-webapp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Abel\bsis3a-webapp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Abel\bsis3a-webapp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Abel\bsis3a-webapp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Abel\bsis3a-webapp\obj\Debug\net5.0\bsis3a-webapp.csproj.AssemblyReference.cache
+C:\Users\Abel\bsis3a-webapp\obj\Debug\net5.0\bsis3a-webapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abel\bsis3a-webapp\obj\Debug\net5.0\bsis3a-webapp.AssemblyInfoInputs.cache
+C:\Users\Abel\bsis3a-webapp\obj\Debug\net5.0\bsis3a-webapp.AssemblyInfo.cs
+C:\Users\Abel\bsis3a-webapp\obj\Debug\net5.0\bsis3a-webapp.csproj.CoreCompileInputs.cache
+C:\Users\Abel\bsis3a-webapp\obj\Debug\net5.0\bsis3a-webapp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Abel\bsis3a-webapp\obj\Debug\net5.0\bsis3a-webapp.RazorAssemblyInfo.cache
+C:\Users\Abel\bsis3a-webapp\obj\Debug\net5.0\bsis3a-webapp.RazorAssemblyInfo.cs
+C:\Users\Abel\bsis3a-webapp\obj\Debug\net5.0\staticwebassets\bsis3a-webapp.StaticWebAssets.Manifest.cache
+C:\Users\Abel\bsis3a-webapp\obj\Debug\net5.0\staticwebassets\bsis3a-webapp.StaticWebAssets.xml
+C:\Users\Abel\bsis3a-webapp\obj\Debug\net5.0\scopedcss\bundle\bsis3a-webapp.styles.css
+C:\Users\Abel\bsis3a-webapp\obj\Debug\net5.0\bsis3a-webapp.TagHelpers.input.cache
+C:\Users\Abel\bsis3a-webapp\obj\Debug\net5.0\bsis3a-webapp.TagHelpers.output.cache
+C:\Users\Abel\bsis3a-webapp\obj\Debug\net5.0\bsis3a-webapp.RazorCoreGenerate.cache
+C:\Users\Abel\bsis3a-webapp\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Abel\bsis3a-webapp\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Abel\bsis3a-webapp\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Abel\bsis3a-webapp\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Abel\bsis3a-webapp\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Abel\bsis3a-webapp\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Abel\bsis3a-webapp\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Abel\bsis3a-webapp\obj\Debug\net5.0\bsis3a-webapp.RazorTargetAssemblyInfo.cache
+C:\Users\Abel\bsis3a-webapp\obj\Debug\net5.0\bsis3a-webapp.RazorTargetAssemblyInfo.cs
+C:\Users\Abel\bsis3a-webapp\obj\Debug\net5.0\bsis3a-webapp.Views.pdb
+C:\Users\Abel\bsis3a-webapp\obj\Debug\net5.0\bsis3a-webapp.csproj.CopyComplete
+C:\Users\Abel\bsis3a-webapp\obj\Debug\net5.0\bsis3a-webapp.dll
+C:\Users\Abel\bsis3a-webapp\obj\Debug\net5.0\ref\bsis3a-webapp.dll
+C:\Users\Abel\bsis3a-webapp\obj\Debug\net5.0\bsis3a-webapp.pdb
+C:\Users\Abel\bsis3a-webapp\obj\Debug\net5.0\bsis3a-webapp.genruntimeconfig.cache
+C:\Users\Abel\bsis3a-webapp\obj\Debug\net5.0\Razor\Views\Item\Index.cshtml.g.cs
+C:\Users\Abel\bsis3a-webapp\obj\Debug\net5.0\Razor\Views\Item\Create.cshtml.g.cs
+C:\Users\Abel\bsis3a-webapp\obj\Debug\net5.0\Razor\Views\Item\Edit.cshtml.g.cs
+C:\Users\Abel\bsis3a-webapp\obj\Debug\net5.0\Razor\Views\Item\Delete.cshtml.g.cs
+C:\Users\Abel\bsis3a-webapp\obj\Debug\net5.0\Razor\Views\Type\Index.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\Desktop\bsis3a-webapp-main\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\CLARKSON PALACIO\Desktop\bsis3a-webapp-main\bin\Debug\net5.0\appsettings.json
+C:\Users\CLARKSON PALACIO\Desktop\bsis3a-webapp-main\bin\Debug\net5.0\bsis3a-webapp.exe
+C:\Users\CLARKSON PALACIO\Desktop\bsis3a-webapp-main\bin\Debug\net5.0\bsis3a-webapp.deps.json
+C:\Users\CLARKSON PALACIO\Desktop\bsis3a-webapp-main\bin\Debug\net5.0\bsis3a-webapp.runtimeconfig.json
+C:\Users\CLARKSON PALACIO\Desktop\bsis3a-webapp-main\bin\Debug\net5.0\bsis3a-webapp.runtimeconfig.dev.json
+C:\Users\CLARKSON PALACIO\Desktop\bsis3a-webapp-main\bin\Debug\net5.0\bsis3a-webapp.dll
+C:\Users\CLARKSON PALACIO\Desktop\bsis3a-webapp-main\bin\Debug\net5.0\ref\bsis3a-webapp.dll
+C:\Users\CLARKSON PALACIO\Desktop\bsis3a-webapp-main\bin\Debug\net5.0\bsis3a-webapp.pdb
+C:\Users\CLARKSON PALACIO\Desktop\bsis3a-webapp-main\bin\Debug\net5.0\bsis3a-webapp.Views.dll
+C:\Users\CLARKSON PALACIO\Desktop\bsis3a-webapp-main\bin\Debug\net5.0\bsis3a-webapp.Views.pdb
+C:\Users\CLARKSON PALACIO\Desktop\bsis3a-webapp-main\bin\Debug\net5.0\Humanizer.dll
+C:\Users\CLARKSON PALACIO\Desktop\bsis3a-webapp-main\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\CLARKSON PALACIO\Desktop\bsis3a-webapp-main\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\CLARKSON PALACIO\Desktop\bsis3a-webapp-main\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\CLARKSON PALACIO\Desktop\bsis3a-webapp-main\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\CLARKSON PALACIO\Desktop\bsis3a-webapp-main\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\CLARKSON PALACIO\Desktop\bsis3a-webapp-main\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\CLARKSON PALACIO\Desktop\bsis3a-webapp-main\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\CLARKSON PALACIO\Desktop\bsis3a-webapp-main\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\CLARKSON PALACIO\Desktop\bsis3a-webapp-main\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\CLARKSON PALACIO\Desktop\bsis3a-webapp-main\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\CLARKSON PALACIO\Desktop\bsis3a-webapp-main\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\CLARKSON PALACIO\Desktop\bsis3a-webapp-main\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\CLARKSON PALACIO\Desktop\bsis3a-webapp-main\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\CLARKSON PALACIO\Desktop\bsis3a-webapp-main\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\CLARKSON PALACIO\Desktop\bsis3a-webapp-main\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\CLARKSON PALACIO\Desktop\bsis3a-webapp-main\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\CLARKSON PALACIO\Desktop\bsis3a-webapp-main\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CLARKSON PALACIO\Desktop\bsis3a-webapp-main\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\CLARKSON PALACIO\Desktop\bsis3a-webapp-main\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\CLARKSON PALACIO\Desktop\bsis3a-webapp-main\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CLARKSON PALACIO\Desktop\bsis3a-webapp-main\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\CLARKSON PALACIO\Desktop\bsis3a-webapp-main\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CLARKSON PALACIO\Desktop\bsis3a-webapp-main\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\CLARKSON PALACIO\Desktop\bsis3a-webapp-main\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CLARKSON PALACIO\Desktop\bsis3a-webapp-main\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\CLARKSON PALACIO\Desktop\bsis3a-webapp-main\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CLARKSON PALACIO\Desktop\bsis3a-webapp-main\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\CLARKSON PALACIO\Desktop\bsis3a-webapp-main\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\CLARKSON PALACIO\Desktop\bsis3a-webapp-main\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CLARKSON PALACIO\Desktop\bsis3a-webapp-main\obj\Debug\net5.0\bsis3a-webapp.csproj.AssemblyReference.cache
+C:\Users\CLARKSON PALACIO\Desktop\bsis3a-webapp-main\obj\Debug\net5.0\bsis3a-webapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CLARKSON PALACIO\Desktop\bsis3a-webapp-main\obj\Debug\net5.0\bsis3a-webapp.AssemblyInfoInputs.cache
+C:\Users\CLARKSON PALACIO\Desktop\bsis3a-webapp-main\obj\Debug\net5.0\bsis3a-webapp.AssemblyInfo.cs
+C:\Users\CLARKSON PALACIO\Desktop\bsis3a-webapp-main\obj\Debug\net5.0\bsis3a-webapp.csproj.CoreCompileInputs.cache
+C:\Users\CLARKSON PALACIO\Desktop\bsis3a-webapp-main\obj\Debug\net5.0\bsis3a-webapp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CLARKSON PALACIO\Desktop\bsis3a-webapp-main\obj\Debug\net5.0\bsis3a-webapp.RazorAssemblyInfo.cache
+C:\Users\CLARKSON PALACIO\Desktop\bsis3a-webapp-main\obj\Debug\net5.0\bsis3a-webapp.RazorAssemblyInfo.cs
+C:\Users\CLARKSON PALACIO\Desktop\bsis3a-webapp-main\obj\Debug\net5.0\staticwebassets\bsis3a-webapp.StaticWebAssets.Manifest.cache
+C:\Users\CLARKSON PALACIO\Desktop\bsis3a-webapp-main\obj\Debug\net5.0\staticwebassets\bsis3a-webapp.StaticWebAssets.xml
+C:\Users\CLARKSON PALACIO\Desktop\bsis3a-webapp-main\obj\Debug\net5.0\scopedcss\bundle\bsis3a-webapp.styles.css
+C:\Users\CLARKSON PALACIO\Desktop\bsis3a-webapp-main\obj\Debug\net5.0\bsis3a-webapp.TagHelpers.input.cache
+C:\Users\CLARKSON PALACIO\Desktop\bsis3a-webapp-main\obj\Debug\net5.0\bsis3a-webapp.TagHelpers.output.cache
+C:\Users\CLARKSON PALACIO\Desktop\bsis3a-webapp-main\obj\Debug\net5.0\bsis3a-webapp.RazorCoreGenerate.cache
+C:\Users\CLARKSON PALACIO\Desktop\bsis3a-webapp-main\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\Desktop\bsis3a-webapp-main\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\Desktop\bsis3a-webapp-main\obj\Debug\net5.0\Razor\Views\Item\Create.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\Desktop\bsis3a-webapp-main\obj\Debug\net5.0\Razor\Views\Item\Delete.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\Desktop\bsis3a-webapp-main\obj\Debug\net5.0\Razor\Views\Item\Edit.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\Desktop\bsis3a-webapp-main\obj\Debug\net5.0\Razor\Views\Item\Index.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\Desktop\bsis3a-webapp-main\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\Desktop\bsis3a-webapp-main\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\Desktop\bsis3a-webapp-main\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\Desktop\bsis3a-webapp-main\obj\Debug\net5.0\Razor\Views\Type\Index.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\Desktop\bsis3a-webapp-main\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\Desktop\bsis3a-webapp-main\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\Desktop\bsis3a-webapp-main\obj\Debug\net5.0\bsis3a-webapp.RazorTargetAssemblyInfo.cache
+C:\Users\CLARKSON PALACIO\Desktop\bsis3a-webapp-main\obj\Debug\net5.0\bsis3a-webapp.RazorTargetAssemblyInfo.cs
+C:\Users\CLARKSON PALACIO\Desktop\bsis3a-webapp-main\obj\Debug\net5.0\bsis3a-webapp.Views.pdb
+C:\Users\CLARKSON PALACIO\Desktop\bsis3a-webapp-main\obj\Debug\net5.0\bsis3a-webapp.csproj.CopyComplete
+C:\Users\CLARKSON PALACIO\Desktop\bsis3a-webapp-main\obj\Debug\net5.0\bsis3a-webapp.dll
+C:\Users\CLARKSON PALACIO\Desktop\bsis3a-webapp-main\obj\Debug\net5.0\ref\bsis3a-webapp.dll
+C:\Users\CLARKSON PALACIO\Desktop\bsis3a-webapp-main\obj\Debug\net5.0\bsis3a-webapp.pdb
+C:\Users\CLARKSON PALACIO\Desktop\bsis3a-webapp-main\obj\Debug\net5.0\bsis3a-webapp.genruntimeconfig.cache
+C:\Users\CLARKSON PALACIO\Desktop\Project ME\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\CLARKSON PALACIO\Desktop\Project ME\bin\Debug\net5.0\appsettings.json
+C:\Users\CLARKSON PALACIO\Desktop\Project ME\bin\Debug\net5.0\bsis3a-webapp.exe
+C:\Users\CLARKSON PALACIO\Desktop\Project ME\bin\Debug\net5.0\bsis3a-webapp.deps.json
+C:\Users\CLARKSON PALACIO\Desktop\Project ME\bin\Debug\net5.0\bsis3a-webapp.runtimeconfig.json
+C:\Users\CLARKSON PALACIO\Desktop\Project ME\bin\Debug\net5.0\bsis3a-webapp.runtimeconfig.dev.json
+C:\Users\CLARKSON PALACIO\Desktop\Project ME\bin\Debug\net5.0\bsis3a-webapp.dll
+C:\Users\CLARKSON PALACIO\Desktop\Project ME\bin\Debug\net5.0\ref\bsis3a-webapp.dll
+C:\Users\CLARKSON PALACIO\Desktop\Project ME\bin\Debug\net5.0\bsis3a-webapp.pdb
+C:\Users\CLARKSON PALACIO\Desktop\Project ME\bin\Debug\net5.0\bsis3a-webapp.Views.dll
+C:\Users\CLARKSON PALACIO\Desktop\Project ME\bin\Debug\net5.0\bsis3a-webapp.Views.pdb
+C:\Users\CLARKSON PALACIO\Desktop\Project ME\bin\Debug\net5.0\Humanizer.dll
+C:\Users\CLARKSON PALACIO\Desktop\Project ME\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\CLARKSON PALACIO\Desktop\Project ME\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\CLARKSON PALACIO\Desktop\Project ME\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\CLARKSON PALACIO\Desktop\Project ME\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\CLARKSON PALACIO\Desktop\Project ME\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\CLARKSON PALACIO\Desktop\Project ME\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\CLARKSON PALACIO\Desktop\Project ME\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\CLARKSON PALACIO\Desktop\Project ME\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\CLARKSON PALACIO\Desktop\Project ME\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\CLARKSON PALACIO\Desktop\Project ME\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\CLARKSON PALACIO\Desktop\Project ME\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\CLARKSON PALACIO\Desktop\Project ME\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\CLARKSON PALACIO\Desktop\Project ME\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\CLARKSON PALACIO\Desktop\Project ME\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\CLARKSON PALACIO\Desktop\Project ME\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\CLARKSON PALACIO\Desktop\Project ME\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\CLARKSON PALACIO\Desktop\Project ME\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CLARKSON PALACIO\Desktop\Project ME\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\CLARKSON PALACIO\Desktop\Project ME\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\CLARKSON PALACIO\Desktop\Project ME\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CLARKSON PALACIO\Desktop\Project ME\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\CLARKSON PALACIO\Desktop\Project ME\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CLARKSON PALACIO\Desktop\Project ME\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\CLARKSON PALACIO\Desktop\Project ME\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CLARKSON PALACIO\Desktop\Project ME\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\CLARKSON PALACIO\Desktop\Project ME\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CLARKSON PALACIO\Desktop\Project ME\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\CLARKSON PALACIO\Desktop\Project ME\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\CLARKSON PALACIO\Desktop\Project ME\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CLARKSON PALACIO\Desktop\Project ME\obj\Debug\net5.0\bsis3a-webapp.csproj.AssemblyReference.cache
+C:\Users\CLARKSON PALACIO\Desktop\Project ME\obj\Debug\net5.0\bsis3a-webapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CLARKSON PALACIO\Desktop\Project ME\obj\Debug\net5.0\bsis3a-webapp.AssemblyInfoInputs.cache
+C:\Users\CLARKSON PALACIO\Desktop\Project ME\obj\Debug\net5.0\bsis3a-webapp.AssemblyInfo.cs
+C:\Users\CLARKSON PALACIO\Desktop\Project ME\obj\Debug\net5.0\bsis3a-webapp.csproj.CoreCompileInputs.cache
+C:\Users\CLARKSON PALACIO\Desktop\Project ME\obj\Debug\net5.0\bsis3a-webapp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CLARKSON PALACIO\Desktop\Project ME\obj\Debug\net5.0\bsis3a-webapp.RazorAssemblyInfo.cache
+C:\Users\CLARKSON PALACIO\Desktop\Project ME\obj\Debug\net5.0\bsis3a-webapp.RazorAssemblyInfo.cs
+C:\Users\CLARKSON PALACIO\Desktop\Project ME\obj\Debug\net5.0\staticwebassets\bsis3a-webapp.StaticWebAssets.Manifest.cache
+C:\Users\CLARKSON PALACIO\Desktop\Project ME\obj\Debug\net5.0\staticwebassets\bsis3a-webapp.StaticWebAssets.xml
+C:\Users\CLARKSON PALACIO\Desktop\Project ME\obj\Debug\net5.0\scopedcss\bundle\bsis3a-webapp.styles.css
+C:\Users\CLARKSON PALACIO\Desktop\Project ME\obj\Debug\net5.0\bsis3a-webapp.TagHelpers.input.cache
+C:\Users\CLARKSON PALACIO\Desktop\Project ME\obj\Debug\net5.0\bsis3a-webapp.TagHelpers.output.cache
+C:\Users\CLARKSON PALACIO\Desktop\Project ME\obj\Debug\net5.0\bsis3a-webapp.RazorCoreGenerate.cache
+C:\Users\CLARKSON PALACIO\Desktop\Project ME\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\Desktop\Project ME\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\Desktop\Project ME\obj\Debug\net5.0\Razor\Views\Item\Create.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\Desktop\Project ME\obj\Debug\net5.0\Razor\Views\Item\Delete.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\Desktop\Project ME\obj\Debug\net5.0\Razor\Views\Item\Edit.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\Desktop\Project ME\obj\Debug\net5.0\Razor\Views\Item\Index.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\Desktop\Project ME\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\Desktop\Project ME\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\Desktop\Project ME\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\Desktop\Project ME\obj\Debug\net5.0\Razor\Views\Type\Index.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\Desktop\Project ME\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\Desktop\Project ME\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\Desktop\Project ME\obj\Debug\net5.0\bsis3a-webapp.RazorTargetAssemblyInfo.cache
+C:\Users\CLARKSON PALACIO\Desktop\Project ME\obj\Debug\net5.0\bsis3a-webapp.RazorTargetAssemblyInfo.cs
+C:\Users\CLARKSON PALACIO\Desktop\Project ME\obj\Debug\net5.0\bsis3a-webapp.Views.pdb
+C:\Users\CLARKSON PALACIO\Desktop\Project ME\obj\Debug\net5.0\bsis3a-webapp.csproj.CopyComplete
+C:\Users\CLARKSON PALACIO\Desktop\Project ME\obj\Debug\net5.0\bsis3a-webapp.dll
+C:\Users\CLARKSON PALACIO\Desktop\Project ME\obj\Debug\net5.0\ref\bsis3a-webapp.dll
+C:\Users\CLARKSON PALACIO\Desktop\Project ME\obj\Debug\net5.0\bsis3a-webapp.pdb
+C:\Users\CLARKSON PALACIO\Desktop\Project ME\obj\Debug\net5.0\bsis3a-webapp.genruntimeconfig.cache
+C:\Users\CLARKSON PALACIO\bsis3awebapp\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\CLARKSON PALACIO\bsis3awebapp\bin\Debug\net5.0\appsettings.json
+C:\Users\CLARKSON PALACIO\bsis3awebapp\bin\Debug\net5.0\bsis3a-webapp.exe
+C:\Users\CLARKSON PALACIO\bsis3awebapp\bin\Debug\net5.0\bsis3a-webapp.deps.json
+C:\Users\CLARKSON PALACIO\bsis3awebapp\bin\Debug\net5.0\bsis3a-webapp.runtimeconfig.json
+C:\Users\CLARKSON PALACIO\bsis3awebapp\bin\Debug\net5.0\bsis3a-webapp.runtimeconfig.dev.json
+C:\Users\CLARKSON PALACIO\bsis3awebapp\bin\Debug\net5.0\bsis3a-webapp.dll
+C:\Users\CLARKSON PALACIO\bsis3awebapp\bin\Debug\net5.0\ref\bsis3a-webapp.dll
+C:\Users\CLARKSON PALACIO\bsis3awebapp\bin\Debug\net5.0\bsis3a-webapp.pdb
+C:\Users\CLARKSON PALACIO\bsis3awebapp\bin\Debug\net5.0\bsis3a-webapp.Views.dll
+C:\Users\CLARKSON PALACIO\bsis3awebapp\bin\Debug\net5.0\bsis3a-webapp.Views.pdb
+C:\Users\CLARKSON PALACIO\bsis3awebapp\bin\Debug\net5.0\Humanizer.dll
+C:\Users\CLARKSON PALACIO\bsis3awebapp\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\CLARKSON PALACIO\bsis3awebapp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\CLARKSON PALACIO\bsis3awebapp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\CLARKSON PALACIO\bsis3awebapp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\CLARKSON PALACIO\bsis3awebapp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\CLARKSON PALACIO\bsis3awebapp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\CLARKSON PALACIO\bsis3awebapp\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\CLARKSON PALACIO\bsis3awebapp\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\CLARKSON PALACIO\bsis3awebapp\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\CLARKSON PALACIO\bsis3awebapp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\CLARKSON PALACIO\bsis3awebapp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\CLARKSON PALACIO\bsis3awebapp\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\CLARKSON PALACIO\bsis3awebapp\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\CLARKSON PALACIO\bsis3awebapp\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\CLARKSON PALACIO\bsis3awebapp\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\CLARKSON PALACIO\bsis3awebapp\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\CLARKSON PALACIO\bsis3awebapp\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CLARKSON PALACIO\bsis3awebapp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\CLARKSON PALACIO\bsis3awebapp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\CLARKSON PALACIO\bsis3awebapp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CLARKSON PALACIO\bsis3awebapp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\CLARKSON PALACIO\bsis3awebapp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CLARKSON PALACIO\bsis3awebapp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\CLARKSON PALACIO\bsis3awebapp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CLARKSON PALACIO\bsis3awebapp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\CLARKSON PALACIO\bsis3awebapp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CLARKSON PALACIO\bsis3awebapp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\CLARKSON PALACIO\bsis3awebapp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\CLARKSON PALACIO\bsis3awebapp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CLARKSON PALACIO\bsis3awebapp\obj\Debug\net5.0\bsis3a-webapp.csproj.AssemblyReference.cache
+C:\Users\CLARKSON PALACIO\bsis3awebapp\obj\Debug\net5.0\bsis3a-webapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CLARKSON PALACIO\bsis3awebapp\obj\Debug\net5.0\bsis3a-webapp.AssemblyInfoInputs.cache
+C:\Users\CLARKSON PALACIO\bsis3awebapp\obj\Debug\net5.0\bsis3a-webapp.AssemblyInfo.cs
+C:\Users\CLARKSON PALACIO\bsis3awebapp\obj\Debug\net5.0\bsis3a-webapp.csproj.CoreCompileInputs.cache
+C:\Users\CLARKSON PALACIO\bsis3awebapp\obj\Debug\net5.0\bsis3a-webapp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CLARKSON PALACIO\bsis3awebapp\obj\Debug\net5.0\bsis3a-webapp.RazorAssemblyInfo.cache
+C:\Users\CLARKSON PALACIO\bsis3awebapp\obj\Debug\net5.0\bsis3a-webapp.RazorAssemblyInfo.cs
+C:\Users\CLARKSON PALACIO\bsis3awebapp\obj\Debug\net5.0\staticwebassets\bsis3a-webapp.StaticWebAssets.Manifest.cache
+C:\Users\CLARKSON PALACIO\bsis3awebapp\obj\Debug\net5.0\staticwebassets\bsis3a-webapp.StaticWebAssets.xml
+C:\Users\CLARKSON PALACIO\bsis3awebapp\obj\Debug\net5.0\scopedcss\bundle\bsis3a-webapp.styles.css
+C:\Users\CLARKSON PALACIO\bsis3awebapp\obj\Debug\net5.0\bsis3a-webapp.TagHelpers.input.cache
+C:\Users\CLARKSON PALACIO\bsis3awebapp\obj\Debug\net5.0\bsis3a-webapp.TagHelpers.output.cache
+C:\Users\CLARKSON PALACIO\bsis3awebapp\obj\Debug\net5.0\bsis3a-webapp.RazorCoreGenerate.cache
+C:\Users\CLARKSON PALACIO\bsis3awebapp\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\bsis3awebapp\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\bsis3awebapp\obj\Debug\net5.0\Razor\Views\Item\Create.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\bsis3awebapp\obj\Debug\net5.0\Razor\Views\Item\Delete.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\bsis3awebapp\obj\Debug\net5.0\Razor\Views\Item\Edit.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\bsis3awebapp\obj\Debug\net5.0\Razor\Views\Item\Index.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\bsis3awebapp\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\bsis3awebapp\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\bsis3awebapp\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\bsis3awebapp\obj\Debug\net5.0\Razor\Views\Type\Index.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\bsis3awebapp\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\bsis3awebapp\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\bsis3awebapp\obj\Debug\net5.0\bsis3a-webapp.RazorTargetAssemblyInfo.cache
+C:\Users\CLARKSON PALACIO\bsis3awebapp\obj\Debug\net5.0\bsis3a-webapp.RazorTargetAssemblyInfo.cs
+C:\Users\CLARKSON PALACIO\bsis3awebapp\obj\Debug\net5.0\bsis3a-webapp.Views.pdb
+C:\Users\CLARKSON PALACIO\bsis3awebapp\obj\Debug\net5.0\bsis3a-webapp.csproj.CopyComplete
+C:\Users\CLARKSON PALACIO\bsis3awebapp\obj\Debug\net5.0\bsis3a-webapp.dll
+C:\Users\CLARKSON PALACIO\bsis3awebapp\obj\Debug\net5.0\ref\bsis3a-webapp.dll
+C:\Users\CLARKSON PALACIO\bsis3awebapp\obj\Debug\net5.0\bsis3a-webapp.pdb
+C:\Users\CLARKSON PALACIO\bsis3awebapp\obj\Debug\net5.0\bsis3a-webapp.genruntimeconfig.cache
+C:\Users\CLARKSON PALACIO\bsis3awebapp\obj\Debug\net5.0\Razor\Views\Type\Create.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\bsis3awebapp\obj\Debug\net5.0\Razor\Views\Type\Delete.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\bsis3awebapp\obj\Debug\net5.0\Razor\Views\Type\Edit.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\alvinclarkpalaciobsis3a\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\CLARKSON PALACIO\alvinclarkpalaciobsis3a\bin\Debug\net5.0\appsettings.json
+C:\Users\CLARKSON PALACIO\alvinclarkpalaciobsis3a\bin\Debug\net5.0\bsis3a-webapp.exe
+C:\Users\CLARKSON PALACIO\alvinclarkpalaciobsis3a\bin\Debug\net5.0\bsis3a-webapp.deps.json
+C:\Users\CLARKSON PALACIO\alvinclarkpalaciobsis3a\bin\Debug\net5.0\bsis3a-webapp.runtimeconfig.json
+C:\Users\CLARKSON PALACIO\alvinclarkpalaciobsis3a\bin\Debug\net5.0\bsis3a-webapp.runtimeconfig.dev.json
+C:\Users\CLARKSON PALACIO\alvinclarkpalaciobsis3a\bin\Debug\net5.0\bsis3a-webapp.dll
+C:\Users\CLARKSON PALACIO\alvinclarkpalaciobsis3a\bin\Debug\net5.0\ref\bsis3a-webapp.dll
+C:\Users\CLARKSON PALACIO\alvinclarkpalaciobsis3a\bin\Debug\net5.0\bsis3a-webapp.pdb
+C:\Users\CLARKSON PALACIO\alvinclarkpalaciobsis3a\bin\Debug\net5.0\bsis3a-webapp.Views.dll
+C:\Users\CLARKSON PALACIO\alvinclarkpalaciobsis3a\bin\Debug\net5.0\bsis3a-webapp.Views.pdb
+C:\Users\CLARKSON PALACIO\alvinclarkpalaciobsis3a\bin\Debug\net5.0\Humanizer.dll
+C:\Users\CLARKSON PALACIO\alvinclarkpalaciobsis3a\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\CLARKSON PALACIO\alvinclarkpalaciobsis3a\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\CLARKSON PALACIO\alvinclarkpalaciobsis3a\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\CLARKSON PALACIO\alvinclarkpalaciobsis3a\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\CLARKSON PALACIO\alvinclarkpalaciobsis3a\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\CLARKSON PALACIO\alvinclarkpalaciobsis3a\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\CLARKSON PALACIO\alvinclarkpalaciobsis3a\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\CLARKSON PALACIO\alvinclarkpalaciobsis3a\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\CLARKSON PALACIO\alvinclarkpalaciobsis3a\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\CLARKSON PALACIO\alvinclarkpalaciobsis3a\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\CLARKSON PALACIO\alvinclarkpalaciobsis3a\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\CLARKSON PALACIO\alvinclarkpalaciobsis3a\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\CLARKSON PALACIO\alvinclarkpalaciobsis3a\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\CLARKSON PALACIO\alvinclarkpalaciobsis3a\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\CLARKSON PALACIO\alvinclarkpalaciobsis3a\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\CLARKSON PALACIO\alvinclarkpalaciobsis3a\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\CLARKSON PALACIO\alvinclarkpalaciobsis3a\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CLARKSON PALACIO\alvinclarkpalaciobsis3a\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\CLARKSON PALACIO\alvinclarkpalaciobsis3a\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\CLARKSON PALACIO\alvinclarkpalaciobsis3a\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CLARKSON PALACIO\alvinclarkpalaciobsis3a\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\CLARKSON PALACIO\alvinclarkpalaciobsis3a\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CLARKSON PALACIO\alvinclarkpalaciobsis3a\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\CLARKSON PALACIO\alvinclarkpalaciobsis3a\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CLARKSON PALACIO\alvinclarkpalaciobsis3a\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\CLARKSON PALACIO\alvinclarkpalaciobsis3a\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CLARKSON PALACIO\alvinclarkpalaciobsis3a\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\CLARKSON PALACIO\alvinclarkpalaciobsis3a\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\CLARKSON PALACIO\alvinclarkpalaciobsis3a\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CLARKSON PALACIO\alvinclarkpalaciobsis3a\obj\Debug\net5.0\bsis3a-webapp.csproj.AssemblyReference.cache
+C:\Users\CLARKSON PALACIO\alvinclarkpalaciobsis3a\obj\Debug\net5.0\bsis3a-webapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CLARKSON PALACIO\alvinclarkpalaciobsis3a\obj\Debug\net5.0\bsis3a-webapp.AssemblyInfoInputs.cache
+C:\Users\CLARKSON PALACIO\alvinclarkpalaciobsis3a\obj\Debug\net5.0\bsis3a-webapp.AssemblyInfo.cs
+C:\Users\CLARKSON PALACIO\alvinclarkpalaciobsis3a\obj\Debug\net5.0\bsis3a-webapp.csproj.CoreCompileInputs.cache
+C:\Users\CLARKSON PALACIO\alvinclarkpalaciobsis3a\obj\Debug\net5.0\bsis3a-webapp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CLARKSON PALACIO\alvinclarkpalaciobsis3a\obj\Debug\net5.0\bsis3a-webapp.RazorAssemblyInfo.cache
+C:\Users\CLARKSON PALACIO\alvinclarkpalaciobsis3a\obj\Debug\net5.0\bsis3a-webapp.RazorAssemblyInfo.cs
+C:\Users\CLARKSON PALACIO\alvinclarkpalaciobsis3a\obj\Debug\net5.0\staticwebassets\bsis3a-webapp.StaticWebAssets.Manifest.cache
+C:\Users\CLARKSON PALACIO\alvinclarkpalaciobsis3a\obj\Debug\net5.0\staticwebassets\bsis3a-webapp.StaticWebAssets.xml
+C:\Users\CLARKSON PALACIO\alvinclarkpalaciobsis3a\obj\Debug\net5.0\scopedcss\bundle\bsis3a-webapp.styles.css
+C:\Users\CLARKSON PALACIO\alvinclarkpalaciobsis3a\obj\Debug\net5.0\bsis3a-webapp.TagHelpers.input.cache
+C:\Users\CLARKSON PALACIO\alvinclarkpalaciobsis3a\obj\Debug\net5.0\bsis3a-webapp.TagHelpers.output.cache
+C:\Users\CLARKSON PALACIO\alvinclarkpalaciobsis3a\obj\Debug\net5.0\bsis3a-webapp.RazorCoreGenerate.cache
+C:\Users\CLARKSON PALACIO\alvinclarkpalaciobsis3a\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\alvinclarkpalaciobsis3a\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\alvinclarkpalaciobsis3a\obj\Debug\net5.0\Razor\Views\Item\Create.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\alvinclarkpalaciobsis3a\obj\Debug\net5.0\Razor\Views\Item\Delete.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\alvinclarkpalaciobsis3a\obj\Debug\net5.0\Razor\Views\Item\Edit.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\alvinclarkpalaciobsis3a\obj\Debug\net5.0\Razor\Views\Item\Index.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\alvinclarkpalaciobsis3a\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\alvinclarkpalaciobsis3a\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\alvinclarkpalaciobsis3a\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\alvinclarkpalaciobsis3a\obj\Debug\net5.0\Razor\Views\Type\Create.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\alvinclarkpalaciobsis3a\obj\Debug\net5.0\Razor\Views\Type\Delete.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\alvinclarkpalaciobsis3a\obj\Debug\net5.0\Razor\Views\Type\Edit.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\alvinclarkpalaciobsis3a\obj\Debug\net5.0\Razor\Views\Type\Index.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\alvinclarkpalaciobsis3a\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\alvinclarkpalaciobsis3a\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\alvinclarkpalaciobsis3a\obj\Debug\net5.0\bsis3a-webapp.RazorTargetAssemblyInfo.cache
+C:\Users\CLARKSON PALACIO\alvinclarkpalaciobsis3a\obj\Debug\net5.0\bsis3a-webapp.RazorTargetAssemblyInfo.cs
+C:\Users\CLARKSON PALACIO\alvinclarkpalaciobsis3a\obj\Debug\net5.0\bsis3a-webapp.Views.pdb
+C:\Users\CLARKSON PALACIO\alvinclarkpalaciobsis3a\obj\Debug\net5.0\bsis3a-webapp.csproj.CopyComplete
+C:\Users\CLARKSON PALACIO\alvinclarkpalaciobsis3a\obj\Debug\net5.0\bsis3a-webapp.dll
+C:\Users\CLARKSON PALACIO\alvinclarkpalaciobsis3a\obj\Debug\net5.0\ref\bsis3a-webapp.dll
+C:\Users\CLARKSON PALACIO\alvinclarkpalaciobsis3a\obj\Debug\net5.0\bsis3a-webapp.pdb
+C:\Users\CLARKSON PALACIO\alvinclarkpalaciobsis3a\obj\Debug\net5.0\bsis3a-webapp.genruntimeconfig.cache
+C:\Users\CLARKSON PALACIO\alvinclarksonkalasyo\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\CLARKSON PALACIO\alvinclarksonkalasyo\bin\Debug\net5.0\appsettings.json
+C:\Users\CLARKSON PALACIO\alvinclarksonkalasyo\bin\Debug\net5.0\bsis3a-webapp.exe
+C:\Users\CLARKSON PALACIO\alvinclarksonkalasyo\bin\Debug\net5.0\bsis3a-webapp.deps.json
+C:\Users\CLARKSON PALACIO\alvinclarksonkalasyo\bin\Debug\net5.0\bsis3a-webapp.runtimeconfig.json
+C:\Users\CLARKSON PALACIO\alvinclarksonkalasyo\bin\Debug\net5.0\bsis3a-webapp.runtimeconfig.dev.json
+C:\Users\CLARKSON PALACIO\alvinclarksonkalasyo\bin\Debug\net5.0\bsis3a-webapp.dll
+C:\Users\CLARKSON PALACIO\alvinclarksonkalasyo\bin\Debug\net5.0\ref\bsis3a-webapp.dll
+C:\Users\CLARKSON PALACIO\alvinclarksonkalasyo\bin\Debug\net5.0\bsis3a-webapp.pdb
+C:\Users\CLARKSON PALACIO\alvinclarksonkalasyo\bin\Debug\net5.0\bsis3a-webapp.Views.dll
+C:\Users\CLARKSON PALACIO\alvinclarksonkalasyo\bin\Debug\net5.0\bsis3a-webapp.Views.pdb
+C:\Users\CLARKSON PALACIO\alvinclarksonkalasyo\bin\Debug\net5.0\Humanizer.dll
+C:\Users\CLARKSON PALACIO\alvinclarksonkalasyo\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\CLARKSON PALACIO\alvinclarksonkalasyo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\CLARKSON PALACIO\alvinclarksonkalasyo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\CLARKSON PALACIO\alvinclarksonkalasyo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\CLARKSON PALACIO\alvinclarksonkalasyo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\CLARKSON PALACIO\alvinclarksonkalasyo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\CLARKSON PALACIO\alvinclarksonkalasyo\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\CLARKSON PALACIO\alvinclarksonkalasyo\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\CLARKSON PALACIO\alvinclarksonkalasyo\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\CLARKSON PALACIO\alvinclarksonkalasyo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\CLARKSON PALACIO\alvinclarksonkalasyo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\CLARKSON PALACIO\alvinclarksonkalasyo\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\CLARKSON PALACIO\alvinclarksonkalasyo\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\CLARKSON PALACIO\alvinclarksonkalasyo\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\CLARKSON PALACIO\alvinclarksonkalasyo\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\CLARKSON PALACIO\alvinclarksonkalasyo\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\CLARKSON PALACIO\alvinclarksonkalasyo\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CLARKSON PALACIO\alvinclarksonkalasyo\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\CLARKSON PALACIO\alvinclarksonkalasyo\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\CLARKSON PALACIO\alvinclarksonkalasyo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CLARKSON PALACIO\alvinclarksonkalasyo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\CLARKSON PALACIO\alvinclarksonkalasyo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CLARKSON PALACIO\alvinclarksonkalasyo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\CLARKSON PALACIO\alvinclarksonkalasyo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CLARKSON PALACIO\alvinclarksonkalasyo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\CLARKSON PALACIO\alvinclarksonkalasyo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CLARKSON PALACIO\alvinclarksonkalasyo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\CLARKSON PALACIO\alvinclarksonkalasyo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\CLARKSON PALACIO\alvinclarksonkalasyo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CLARKSON PALACIO\alvinclarksonkalasyo\obj\Debug\net5.0\bsis3a-webapp.csproj.AssemblyReference.cache
+C:\Users\CLARKSON PALACIO\alvinclarksonkalasyo\obj\Debug\net5.0\bsis3a-webapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CLARKSON PALACIO\alvinclarksonkalasyo\obj\Debug\net5.0\bsis3a-webapp.AssemblyInfoInputs.cache
+C:\Users\CLARKSON PALACIO\alvinclarksonkalasyo\obj\Debug\net5.0\bsis3a-webapp.AssemblyInfo.cs
+C:\Users\CLARKSON PALACIO\alvinclarksonkalasyo\obj\Debug\net5.0\bsis3a-webapp.csproj.CoreCompileInputs.cache
+C:\Users\CLARKSON PALACIO\alvinclarksonkalasyo\obj\Debug\net5.0\bsis3a-webapp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CLARKSON PALACIO\alvinclarksonkalasyo\obj\Debug\net5.0\bsis3a-webapp.RazorAssemblyInfo.cache
+C:\Users\CLARKSON PALACIO\alvinclarksonkalasyo\obj\Debug\net5.0\bsis3a-webapp.RazorAssemblyInfo.cs
+C:\Users\CLARKSON PALACIO\alvinclarksonkalasyo\obj\Debug\net5.0\staticwebassets\bsis3a-webapp.StaticWebAssets.Manifest.cache
+C:\Users\CLARKSON PALACIO\alvinclarksonkalasyo\obj\Debug\net5.0\staticwebassets\bsis3a-webapp.StaticWebAssets.xml
+C:\Users\CLARKSON PALACIO\alvinclarksonkalasyo\obj\Debug\net5.0\scopedcss\bundle\bsis3a-webapp.styles.css
+C:\Users\CLARKSON PALACIO\alvinclarksonkalasyo\obj\Debug\net5.0\bsis3a-webapp.TagHelpers.input.cache
+C:\Users\CLARKSON PALACIO\alvinclarksonkalasyo\obj\Debug\net5.0\bsis3a-webapp.TagHelpers.output.cache
+C:\Users\CLARKSON PALACIO\alvinclarksonkalasyo\obj\Debug\net5.0\bsis3a-webapp.RazorCoreGenerate.cache
+C:\Users\CLARKSON PALACIO\alvinclarksonkalasyo\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\alvinclarksonkalasyo\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\alvinclarksonkalasyo\obj\Debug\net5.0\Razor\Views\Item\Create.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\alvinclarksonkalasyo\obj\Debug\net5.0\Razor\Views\Item\Delete.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\alvinclarksonkalasyo\obj\Debug\net5.0\Razor\Views\Item\Edit.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\alvinclarksonkalasyo\obj\Debug\net5.0\Razor\Views\Item\Index.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\alvinclarksonkalasyo\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\alvinclarksonkalasyo\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\alvinclarksonkalasyo\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\alvinclarksonkalasyo\obj\Debug\net5.0\Razor\Views\Type\Create.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\alvinclarksonkalasyo\obj\Debug\net5.0\Razor\Views\Type\Delete.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\alvinclarksonkalasyo\obj\Debug\net5.0\Razor\Views\Type\Edit.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\alvinclarksonkalasyo\obj\Debug\net5.0\Razor\Views\Type\Index.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\alvinclarksonkalasyo\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\alvinclarksonkalasyo\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\alvinclarksonkalasyo\obj\Debug\net5.0\bsis3a-webapp.RazorTargetAssemblyInfo.cache
+C:\Users\CLARKSON PALACIO\alvinclarksonkalasyo\obj\Debug\net5.0\bsis3a-webapp.RazorTargetAssemblyInfo.cs
+C:\Users\CLARKSON PALACIO\alvinclarksonkalasyo\obj\Debug\net5.0\bsis3a-webapp.Views.pdb
+C:\Users\CLARKSON PALACIO\alvinclarksonkalasyo\obj\Debug\net5.0\bsis3a-webapp.csproj.CopyComplete
+C:\Users\CLARKSON PALACIO\alvinclarksonkalasyo\obj\Debug\net5.0\bsis3a-webapp.dll
+C:\Users\CLARKSON PALACIO\alvinclarksonkalasyo\obj\Debug\net5.0\ref\bsis3a-webapp.dll
+C:\Users\CLARKSON PALACIO\alvinclarksonkalasyo\obj\Debug\net5.0\bsis3a-webapp.pdb
+C:\Users\CLARKSON PALACIO\alvinclarksonkalasyo\obj\Debug\net5.0\bsis3a-webapp.genruntimeconfig.cache
+C:\Users\CLARKSON PALACIO\alvinclarksonkalasyo\obj\Debug\net5.0\Razor\Views\Instrument\Index.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\alvinclarksonkalasyo\obj\Debug\net5.0\Razor\Views\Instrument\Create.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\ALVINCLARKSONPALACIO\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\CLARKSON PALACIO\ALVINCLARKSONPALACIO\bin\Debug\net5.0\appsettings.json
+C:\Users\CLARKSON PALACIO\ALVINCLARKSONPALACIO\bin\Debug\net5.0\bsis3a-webapp.exe
+C:\Users\CLARKSON PALACIO\ALVINCLARKSONPALACIO\bin\Debug\net5.0\bsis3a-webapp.deps.json
+C:\Users\CLARKSON PALACIO\ALVINCLARKSONPALACIO\bin\Debug\net5.0\bsis3a-webapp.runtimeconfig.json
+C:\Users\CLARKSON PALACIO\ALVINCLARKSONPALACIO\bin\Debug\net5.0\bsis3a-webapp.runtimeconfig.dev.json
+C:\Users\CLARKSON PALACIO\ALVINCLARKSONPALACIO\bin\Debug\net5.0\bsis3a-webapp.dll
+C:\Users\CLARKSON PALACIO\ALVINCLARKSONPALACIO\bin\Debug\net5.0\ref\bsis3a-webapp.dll
+C:\Users\CLARKSON PALACIO\ALVINCLARKSONPALACIO\bin\Debug\net5.0\bsis3a-webapp.pdb
+C:\Users\CLARKSON PALACIO\ALVINCLARKSONPALACIO\bin\Debug\net5.0\bsis3a-webapp.Views.dll
+C:\Users\CLARKSON PALACIO\ALVINCLARKSONPALACIO\bin\Debug\net5.0\bsis3a-webapp.Views.pdb
+C:\Users\CLARKSON PALACIO\ALVINCLARKSONPALACIO\bin\Debug\net5.0\Humanizer.dll
+C:\Users\CLARKSON PALACIO\ALVINCLARKSONPALACIO\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\CLARKSON PALACIO\ALVINCLARKSONPALACIO\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\CLARKSON PALACIO\ALVINCLARKSONPALACIO\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\CLARKSON PALACIO\ALVINCLARKSONPALACIO\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\CLARKSON PALACIO\ALVINCLARKSONPALACIO\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\CLARKSON PALACIO\ALVINCLARKSONPALACIO\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\CLARKSON PALACIO\ALVINCLARKSONPALACIO\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\CLARKSON PALACIO\ALVINCLARKSONPALACIO\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\CLARKSON PALACIO\ALVINCLARKSONPALACIO\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\CLARKSON PALACIO\ALVINCLARKSONPALACIO\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\CLARKSON PALACIO\ALVINCLARKSONPALACIO\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\CLARKSON PALACIO\ALVINCLARKSONPALACIO\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\CLARKSON PALACIO\ALVINCLARKSONPALACIO\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\CLARKSON PALACIO\ALVINCLARKSONPALACIO\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\CLARKSON PALACIO\ALVINCLARKSONPALACIO\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\CLARKSON PALACIO\ALVINCLARKSONPALACIO\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\CLARKSON PALACIO\ALVINCLARKSONPALACIO\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CLARKSON PALACIO\ALVINCLARKSONPALACIO\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\CLARKSON PALACIO\ALVINCLARKSONPALACIO\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\CLARKSON PALACIO\ALVINCLARKSONPALACIO\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CLARKSON PALACIO\ALVINCLARKSONPALACIO\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\CLARKSON PALACIO\ALVINCLARKSONPALACIO\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CLARKSON PALACIO\ALVINCLARKSONPALACIO\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\CLARKSON PALACIO\ALVINCLARKSONPALACIO\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CLARKSON PALACIO\ALVINCLARKSONPALACIO\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\CLARKSON PALACIO\ALVINCLARKSONPALACIO\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CLARKSON PALACIO\ALVINCLARKSONPALACIO\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\CLARKSON PALACIO\ALVINCLARKSONPALACIO\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\CLARKSON PALACIO\ALVINCLARKSONPALACIO\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CLARKSON PALACIO\ALVINCLARKSONPALACIO\obj\Debug\net5.0\bsis3a-webapp.csproj.AssemblyReference.cache
+C:\Users\CLARKSON PALACIO\ALVINCLARKSONPALACIO\obj\Debug\net5.0\bsis3a-webapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CLARKSON PALACIO\ALVINCLARKSONPALACIO\obj\Debug\net5.0\bsis3a-webapp.AssemblyInfoInputs.cache
+C:\Users\CLARKSON PALACIO\ALVINCLARKSONPALACIO\obj\Debug\net5.0\bsis3a-webapp.AssemblyInfo.cs
+C:\Users\CLARKSON PALACIO\ALVINCLARKSONPALACIO\obj\Debug\net5.0\bsis3a-webapp.csproj.CoreCompileInputs.cache
+C:\Users\CLARKSON PALACIO\ALVINCLARKSONPALACIO\obj\Debug\net5.0\bsis3a-webapp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CLARKSON PALACIO\ALVINCLARKSONPALACIO\obj\Debug\net5.0\bsis3a-webapp.RazorAssemblyInfo.cache
+C:\Users\CLARKSON PALACIO\ALVINCLARKSONPALACIO\obj\Debug\net5.0\bsis3a-webapp.RazorAssemblyInfo.cs
+C:\Users\CLARKSON PALACIO\ALVINCLARKSONPALACIO\obj\Debug\net5.0\staticwebassets\bsis3a-webapp.StaticWebAssets.Manifest.cache
+C:\Users\CLARKSON PALACIO\ALVINCLARKSONPALACIO\obj\Debug\net5.0\staticwebassets\bsis3a-webapp.StaticWebAssets.xml
+C:\Users\CLARKSON PALACIO\ALVINCLARKSONPALACIO\obj\Debug\net5.0\scopedcss\bundle\bsis3a-webapp.styles.css
+C:\Users\CLARKSON PALACIO\ALVINCLARKSONPALACIO\obj\Debug\net5.0\bsis3a-webapp.TagHelpers.input.cache
+C:\Users\CLARKSON PALACIO\ALVINCLARKSONPALACIO\obj\Debug\net5.0\bsis3a-webapp.TagHelpers.output.cache
+C:\Users\CLARKSON PALACIO\ALVINCLARKSONPALACIO\obj\Debug\net5.0\bsis3a-webapp.RazorCoreGenerate.cache
+C:\Users\CLARKSON PALACIO\ALVINCLARKSONPALACIO\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\ALVINCLARKSONPALACIO\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\ALVINCLARKSONPALACIO\obj\Debug\net5.0\Razor\Views\Instrument\Create.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\ALVINCLARKSONPALACIO\obj\Debug\net5.0\Razor\Views\Instrument\Index.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\ALVINCLARKSONPALACIO\obj\Debug\net5.0\Razor\Views\Item\Create.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\ALVINCLARKSONPALACIO\obj\Debug\net5.0\Razor\Views\Item\Delete.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\ALVINCLARKSONPALACIO\obj\Debug\net5.0\Razor\Views\Item\Edit.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\ALVINCLARKSONPALACIO\obj\Debug\net5.0\Razor\Views\Item\Index.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\ALVINCLARKSONPALACIO\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\ALVINCLARKSONPALACIO\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\ALVINCLARKSONPALACIO\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\ALVINCLARKSONPALACIO\obj\Debug\net5.0\Razor\Views\Type\Create.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\ALVINCLARKSONPALACIO\obj\Debug\net5.0\Razor\Views\Type\Delete.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\ALVINCLARKSONPALACIO\obj\Debug\net5.0\Razor\Views\Type\Edit.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\ALVINCLARKSONPALACIO\obj\Debug\net5.0\Razor\Views\Type\Index.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\ALVINCLARKSONPALACIO\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\ALVINCLARKSONPALACIO\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\CLARKSON PALACIO\ALVINCLARKSONPALACIO\obj\Debug\net5.0\bsis3a-webapp.RazorTargetAssemblyInfo.cache
+C:\Users\CLARKSON PALACIO\ALVINCLARKSONPALACIO\obj\Debug\net5.0\bsis3a-webapp.RazorTargetAssemblyInfo.cs
+C:\Users\CLARKSON PALACIO\ALVINCLARKSONPALACIO\obj\Debug\net5.0\bsis3a-webapp.Views.pdb
+C:\Users\CLARKSON PALACIO\ALVINCLARKSONPALACIO\obj\Debug\net5.0\bsis3a-webapp.csproj.CopyComplete
+C:\Users\CLARKSON PALACIO\ALVINCLARKSONPALACIO\obj\Debug\net5.0\bsis3a-webapp.dll
+C:\Users\CLARKSON PALACIO\ALVINCLARKSONPALACIO\obj\Debug\net5.0\ref\bsis3a-webapp.dll
+C:\Users\CLARKSON PALACIO\ALVINCLARKSONPALACIO\obj\Debug\net5.0\bsis3a-webapp.pdb
+C:\Users\CLARKSON PALACIO\ALVINCLARKSONPALACIO\obj\Debug\net5.0\bsis3a-webapp.genruntimeconfig.cache
+C:\Users\CLARKSON PALACIO\ALVINCLARKSONPALACIO\obj\Debug\net5.0\Razor\Views\Instrument\Edit.cshtml.g.cs
+C:\Users\ralph\Myprojectwebapp\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ralph\Myprojectwebapp\bin\Debug\net5.0\appsettings.json
+C:\Users\ralph\Myprojectwebapp\bin\Debug\net5.0\bsis3a-webapp.exe
+C:\Users\ralph\Myprojectwebapp\bin\Debug\net5.0\bsis3a-webapp.deps.json
+C:\Users\ralph\Myprojectwebapp\bin\Debug\net5.0\bsis3a-webapp.runtimeconfig.json
+C:\Users\ralph\Myprojectwebapp\bin\Debug\net5.0\bsis3a-webapp.runtimeconfig.dev.json
+C:\Users\ralph\Myprojectwebapp\bin\Debug\net5.0\bsis3a-webapp.dll
+C:\Users\ralph\Myprojectwebapp\bin\Debug\net5.0\ref\bsis3a-webapp.dll
+C:\Users\ralph\Myprojectwebapp\bin\Debug\net5.0\bsis3a-webapp.pdb
+C:\Users\ralph\Myprojectwebapp\bin\Debug\net5.0\bsis3a-webapp.Views.dll
+C:\Users\ralph\Myprojectwebapp\bin\Debug\net5.0\bsis3a-webapp.Views.pdb
+C:\Users\ralph\Myprojectwebapp\bin\Debug\net5.0\Humanizer.dll
+C:\Users\ralph\Myprojectwebapp\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\ralph\Myprojectwebapp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ralph\Myprojectwebapp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ralph\Myprojectwebapp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ralph\Myprojectwebapp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ralph\Myprojectwebapp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ralph\Myprojectwebapp\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\ralph\Myprojectwebapp\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ralph\Myprojectwebapp\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ralph\Myprojectwebapp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ralph\Myprojectwebapp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ralph\Myprojectwebapp\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ralph\Myprojectwebapp\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\ralph\Myprojectwebapp\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ralph\Myprojectwebapp\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ralph\Myprojectwebapp\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\ralph\Myprojectwebapp\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ralph\Myprojectwebapp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ralph\Myprojectwebapp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ralph\Myprojectwebapp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ralph\Myprojectwebapp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ralph\Myprojectwebapp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ralph\Myprojectwebapp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ralph\Myprojectwebapp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ralph\Myprojectwebapp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ralph\Myprojectwebapp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ralph\Myprojectwebapp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ralph\Myprojectwebapp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ralph\Myprojectwebapp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ralph\Myprojectwebapp\obj\Debug\net5.0\bsis3a-webapp.csproj.AssemblyReference.cache
+C:\Users\ralph\Myprojectwebapp\obj\Debug\net5.0\bsis3a-webapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ralph\Myprojectwebapp\obj\Debug\net5.0\bsis3a-webapp.AssemblyInfoInputs.cache
+C:\Users\ralph\Myprojectwebapp\obj\Debug\net5.0\bsis3a-webapp.AssemblyInfo.cs
+C:\Users\ralph\Myprojectwebapp\obj\Debug\net5.0\bsis3a-webapp.csproj.CoreCompileInputs.cache
+C:\Users\ralph\Myprojectwebapp\obj\Debug\net5.0\bsis3a-webapp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ralph\Myprojectwebapp\obj\Debug\net5.0\bsis3a-webapp.RazorAssemblyInfo.cache
+C:\Users\ralph\Myprojectwebapp\obj\Debug\net5.0\bsis3a-webapp.RazorAssemblyInfo.cs
+C:\Users\ralph\Myprojectwebapp\obj\Debug\net5.0\staticwebassets\bsis3a-webapp.StaticWebAssets.Manifest.cache
+C:\Users\ralph\Myprojectwebapp\obj\Debug\net5.0\staticwebassets\bsis3a-webapp.StaticWebAssets.xml
+C:\Users\ralph\Myprojectwebapp\obj\Debug\net5.0\scopedcss\bundle\bsis3a-webapp.styles.css
+C:\Users\ralph\Myprojectwebapp\obj\Debug\net5.0\bsis3a-webapp.TagHelpers.input.cache
+C:\Users\ralph\Myprojectwebapp\obj\Debug\net5.0\bsis3a-webapp.TagHelpers.output.cache
+C:\Users\ralph\Myprojectwebapp\obj\Debug\net5.0\bsis3a-webapp.RazorCoreGenerate.cache
+C:\Users\ralph\Myprojectwebapp\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ralph\Myprojectwebapp\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ralph\Myprojectwebapp\obj\Debug\net5.0\Razor\Views\Instrument\Create.cshtml.g.cs
+C:\Users\ralph\Myprojectwebapp\obj\Debug\net5.0\Razor\Views\Instrument\Edit.cshtml.g.cs
+C:\Users\ralph\Myprojectwebapp\obj\Debug\net5.0\Razor\Views\Instrument\Index.cshtml.g.cs
+C:\Users\ralph\Myprojectwebapp\obj\Debug\net5.0\Razor\Views\Item\Create.cshtml.g.cs
+C:\Users\ralph\Myprojectwebapp\obj\Debug\net5.0\Razor\Views\Item\Delete.cshtml.g.cs
+C:\Users\ralph\Myprojectwebapp\obj\Debug\net5.0\Razor\Views\Item\Edit.cshtml.g.cs
+C:\Users\ralph\Myprojectwebapp\obj\Debug\net5.0\Razor\Views\Item\Index.cshtml.g.cs
+C:\Users\ralph\Myprojectwebapp\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ralph\Myprojectwebapp\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ralph\Myprojectwebapp\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ralph\Myprojectwebapp\obj\Debug\net5.0\Razor\Views\Type\Create.cshtml.g.cs
+C:\Users\ralph\Myprojectwebapp\obj\Debug\net5.0\Razor\Views\Type\Delete.cshtml.g.cs
+C:\Users\ralph\Myprojectwebapp\obj\Debug\net5.0\Razor\Views\Type\Edit.cshtml.g.cs
+C:\Users\ralph\Myprojectwebapp\obj\Debug\net5.0\Razor\Views\Type\Index.cshtml.g.cs
+C:\Users\ralph\Myprojectwebapp\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ralph\Myprojectwebapp\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ralph\Myprojectwebapp\obj\Debug\net5.0\bsis3a-webapp.RazorTargetAssemblyInfo.cache
+C:\Users\ralph\Myprojectwebapp\obj\Debug\net5.0\bsis3a-webapp.RazorTargetAssemblyInfo.cs
+C:\Users\ralph\Myprojectwebapp\obj\Debug\net5.0\bsis3a-webapp.Views.pdb
+C:\Users\ralph\Myprojectwebapp\obj\Debug\net5.0\bsis3a-webapp.csproj.CopyComplete
+C:\Users\ralph\Myprojectwebapp\obj\Debug\net5.0\bsis3a-webapp.dll
+C:\Users\ralph\Myprojectwebapp\obj\Debug\net5.0\ref\bsis3a-webapp.dll
+C:\Users\ralph\Myprojectwebapp\obj\Debug\net5.0\bsis3a-webapp.pdb
+C:\Users\ralph\Myprojectwebapp\obj\Debug\net5.0\bsis3a-webapp.genruntimeconfig.cache

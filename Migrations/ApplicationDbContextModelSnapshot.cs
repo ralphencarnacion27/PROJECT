@@ -3,9 +3,9 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using weba_folder.Data;
+using bsis3a_webapp.Data;
 
-namespace crud_dotnetCoreMvcmain.Migrations
+namespace bsis3a_webapp.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
     partial class ApplicationDbContextModelSnapshot : ModelSnapshot
@@ -18,7 +18,35 @@ namespace crud_dotnetCoreMvcmain.Migrations
                 .HasAnnotation("Relational:MaxIdentifierLength", 128)
                 .HasAnnotation("ProductVersion", "5.0.0");
 
-            modelBuilder.Entity("weba_folder.Models.Item", b =>
+            modelBuilder.Entity("bsis3a_webapp.Models.Instrument", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .UseIdentityColumn();
+
+                    b.Property<string>("ImagePath")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("ItemId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("Price")
+                        .HasColumnType("int");
+
+                    b.Property<int>("TypeId")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("ItemId");
+
+                    b.HasIndex("TypeId");
+
+                    b.ToTable("Instruments");
+                });
+
+            modelBuilder.Entity("bsis3a_webapp.Models.Item", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -35,7 +63,7 @@ namespace crud_dotnetCoreMvcmain.Migrations
                     b.ToTable("Items");
                 });
 
-            modelBuilder.Entity("weba_folder.Models.Type", b =>
+            modelBuilder.Entity("bsis3a_webapp.Models.Type", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -57,9 +85,28 @@ namespace crud_dotnetCoreMvcmain.Migrations
                     b.ToTable("Types");
                 });
 
-            modelBuilder.Entity("weba_folder.Models.Type", b =>
+            modelBuilder.Entity("bsis3a_webapp.Models.Instrument", b =>
                 {
-                    b.HasOne("weba_folder.Models.Item", "Item")
+                    b.HasOne("bsis3a_webapp.Models.Item", "Item")
+                        .WithMany()
+                        .HasForeignKey("ItemId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("bsis3a_webapp.Models.Type", "Type")
+                        .WithMany()
+                        .HasForeignKey("TypeId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Item");
+
+                    b.Navigation("Type");
+                });
+
+            modelBuilder.Entity("bsis3a_webapp.Models.Type", b =>
+                {
+                    b.HasOne("bsis3a_webapp.Models.Item", "Item")
                         .WithMany()
                         .HasForeignKey("ItemId")
                         .OnDelete(DeleteBehavior.Cascade)

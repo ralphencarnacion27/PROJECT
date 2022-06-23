@@ -5,9 +5,9 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using weba_folder.Models;
+using bsis3a_webapp.Models;
 
-namespace weba_folder.Controllers
+namespace bsis3a_webapp.Controllers
 {
     public class HomeController : Controller
     {

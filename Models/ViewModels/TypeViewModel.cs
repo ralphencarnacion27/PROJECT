@@ -1,38 +1,44 @@
-using System.Collections.Generic;
+using System;
 using System.ComponentModel.DataAnnotations;
-using weba_folder.Models;
+using System.Linq;
+using System.Threading.Tasks;
+using System.Collections.Generic;
+using bsis3a_webapp.Models;
 using Microsoft.AspNetCore.Mvc.Rendering;
 
-namespace weba_folder.Models.ViewModels
+namespace bsis3a_webapp.Models.ViewModel
 {
-    public class TypeModel
+    public class TypeViewModel
     {
-        [Required]
         public Type Type { get; set; }
+
         public IEnumerable<Item> Items { get; set; }
-    
-        public IEnumerable<SelectListItem> selectListItem(IEnumerable<Item> Item)
+
+        public IEnumerable<SelectListItem> selectListItems (IEnumerable<Item> Item)
         {
-            List<SelectListItem> ItemList = new List<SelectListItem>();    
+            List<SelectListItem> ItemList = new List<SelectListItem>();
             SelectListItem sli = new SelectListItem
             {
-                Text = "Select Item",
+                Text = "Select Item", 
                 Value = "0"
             };
-            ItemList.Add(sli);
-            foreach (Item item in Items)
-            {
-                sli = new SelectListItem
-                {
+             ItemList.Add(sli);
+
+             foreach(Item item in Items)
+             {
+                  sli = new SelectListItem
+                 {
                     Text = item.Name,
                     Value = item.Id.ToString()
-                };  
-                ItemList.Add(sli);        
-            }     
-            return ItemList;
+                 };
+                 ItemList.Add(sli);
+             }
+
+             return ItemList;
+
         }
-    
-    
-    
+
+       
+
     }
 }

@@ -1,6 +1,6 @@
 using System;
 
-namespace weba_folder.Models
+namespace bsis3a_webapp.Models
 {
     public class ErrorViewModel
     {

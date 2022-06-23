@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0BNh0EH+QO/T9m4r4NYd4O6iBU9IAw7PaUcT0huMJrUFGe4nLwwSAAg1WsaM8UY2B+X0TUaxXxaWjhjxvKokxg==",
+  "dgSpecHash": "JOy2ztHy1np1kaLmzlg/BNnq6HkK60CAFMaPn7ZHw1R6FPvo2wd6c9gFkgSYq04X5i8QecjJDzsxmVLr2yGHOw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ralph\\webappprojecto\\weba-folder\\weba-folder.csproj",
+  "projectFilePath": "C:\\Users\\ralph\\Myprojectwebapp\\bsis3a-webapp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ralph\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\ralph\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

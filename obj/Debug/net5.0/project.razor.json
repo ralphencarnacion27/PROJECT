@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\ralph\\webappprojecto\\weba-folder\\weba-folder.csproj",
+  "FilePath": "c:\\Users\\CLARKSON PALACIO\\ALVINCLARKSONPALACIO\\bsis3a-webapp.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "5.0",
@@ -15616,81 +15616,91 @@
     ],
     "CSharpLanguageVersion": 900
   },
-  "RootNamespace": "crud_dotnetCoreMvc-main",
+  "RootNamespace": "bsis3a_webapp",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\ralph\\webappprojecto\\weba-folder\\Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\ralph\\webappprojecto\\weba-folder\\Views\\Type\\Create.cshtml",
-      "TargetPath": "Views\\Type\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\ralph\\webappprojecto\\weba-folder\\Views\\Item\\Edit.cshtml",
-      "TargetPath": "Views\\Item\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\ralph\\webappprojecto\\weba-folder\\Views\\Item\\Create.cshtml",
-      "TargetPath": "Views\\Item\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\ralph\\webappprojecto\\weba-folder\\Views\\Shared\\Error.cshtml",
-      "TargetPath": "Views\\Shared\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\ralph\\webappprojecto\\weba-folder\\Views\\Type\\Delete.cshtml",
-      "TargetPath": "Views\\Type\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\ralph\\webappprojecto\\weba-folder\\Views\\Type\\Index.cshtml",
-      "TargetPath": "Views\\Type\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\ralph\\webappprojecto\\weba-folder\\Views\\_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\ralph\\webappprojecto\\weba-folder\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\ralph\\webappprojecto\\weba-folder\\Views\\Home\\Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\ralph\\webappprojecto\\weba-folder\\Views\\Type\\Edit.cshtml",
+      "FilePath": "c:\\Users\\CLARKSON PALACIO\\ALVINCLARKSONPALACIO\\Views\\Type\\Edit.cshtml",
       "TargetPath": "Views\\Type\\Edit.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\ralph\\webappprojecto\\weba-folder\\Views\\Shared\\_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FilePath": "c:\\Users\\CLARKSON PALACIO\\ALVINCLARKSONPALACIO\\Views\\Type\\Create.cshtml",
+      "TargetPath": "Views\\Type\\Create.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\ralph\\webappprojecto\\weba-folder\\Views\\_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\ralph\\webappprojecto\\weba-folder\\Views\\Item\\Index.cshtml",
+      "FilePath": "c:\\Users\\CLARKSON PALACIO\\ALVINCLARKSONPALACIO\\Views\\Item\\Index.cshtml",
       "TargetPath": "Views\\Item\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\ralph\\webappprojecto\\weba-folder\\Views\\Item\\Delete.cshtml",
+      "FilePath": "c:\\Users\\CLARKSON PALACIO\\ALVINCLARKSONPALACIO\\Views\\Item\\Edit.cshtml",
+      "TargetPath": "Views\\Item\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\CLARKSON PALACIO\\ALVINCLARKSONPALACIO\\Views\\Item\\Delete.cshtml",
       "TargetPath": "Views\\Item\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\CLARKSON PALACIO\\ALVINCLARKSONPALACIO\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\CLARKSON PALACIO\\ALVINCLARKSONPALACIO\\Views\\Instrument\\Create.cshtml",
+      "TargetPath": "Views\\Instrument\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\CLARKSON PALACIO\\ALVINCLARKSONPALACIO\\Views\\Instrument\\Index.cshtml",
+      "TargetPath": "Views\\Instrument\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\CLARKSON PALACIO\\ALVINCLARKSONPALACIO\\Views\\Home\\Privacy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\CLARKSON PALACIO\\ALVINCLARKSONPALACIO\\Views\\Type\\Index.cshtml",
+      "TargetPath": "Views\\Type\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\CLARKSON PALACIO\\ALVINCLARKSONPALACIO\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\CLARKSON PALACIO\\ALVINCLARKSONPALACIO\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\CLARKSON PALACIO\\ALVINCLARKSONPALACIO\\Views\\Item\\Create.cshtml",
+      "TargetPath": "Views\\Item\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\CLARKSON PALACIO\\ALVINCLARKSONPALACIO\\Views\\Type\\Delete.cshtml",
+      "TargetPath": "Views\\Type\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\CLARKSON PALACIO\\ALVINCLARKSONPALACIO\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\CLARKSON PALACIO\\ALVINCLARKSONPALACIO\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\CLARKSON PALACIO\\ALVINCLARKSONPALACIO\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
     }
   ],

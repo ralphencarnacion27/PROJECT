@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/weba-folder.csproj",
+                "${workspaceFolder}/bsis3a-webapp.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -19,7 +19,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/weba-folder.csproj",
+                "${workspaceFolder}/bsis3a-webapp.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -33,7 +33,7 @@
                 "watch",
                 "run",
                 "--project",
-                "${workspaceFolder}/weba-folder.csproj"
+                "${workspaceFolder}/bsis3a-webapp.csproj"
             ],
             "problemMatcher": "$msCompile"
         }

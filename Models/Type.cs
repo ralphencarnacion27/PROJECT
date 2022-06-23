@@ -1,11 +1,7 @@
-using System;
-using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
 using System.ComponentModel;
-using System.Linq;
-using System.Threading.Tasks;
+using System.ComponentModel.DataAnnotations;
 
-namespace weba_folder.Models
+namespace bsis3a_webapp.Models
 {
     public class Type
     {
@@ -17,6 +13,5 @@ namespace weba_folder.Models
 
         public Item Item { get; set; }
         public int ItemId { get; set; }
-        
     }
 }
